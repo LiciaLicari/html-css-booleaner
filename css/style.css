@@ -5,7 +5,15 @@
 }
 
 header{
-background-image: url(/img/pattern.png);
-background-repeat: repeat;
+    background-color: cornflowerblue;
+    background-image: url(/img/pattern.png);
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    height: 60px;
+    
 }
 
+img{
+    margin-top: 30px;
+    width: 120px;
+}
